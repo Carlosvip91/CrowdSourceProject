@@ -1,0 +1,55 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    float: right;
+}
+
+li a {
+    display: block;
+    padding: 8px 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.navArea{
+    background-image: url("images/image-hero-desktop.jpg");
+    background-size: cover;
+    height: 400px;
+    margin: 0;
+    position:relative;
+}
+
+nav {
+    padding: 50px 140px;
+}
+
+.logo img {
+    padding: 50px 140px;
+    float: left;
+}
+
+body {
+    font-family: 'Commissioner', sans-serif;
+    text-align: center;
+    margin:0;
+}
+
+.infoBoxMain {
+    border: 10px solid white;
+    border-radius: 15px;
+    background-color: white;
+    width: 50%;   
+    position: absolute;
+    top: 50%;
+    left: 25%;
+}
+
+.infoBoxMain img {
+    position: absolute;
+    margin-bottom: 300%;
+}
