@@ -51,5 +51,5 @@ body {
 
 .infoBoxMain img {
     position: absolute;
-    margin-bottom: 300%;
+    top: 5px;
 }
